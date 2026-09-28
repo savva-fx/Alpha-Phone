@@ -148,8 +148,6 @@ ensure alpha-phone-props
 ensure alpha-phone
 ```
 
-> [!WARNING]
-> `alpha-phone-sandbox` (`/phbot`) is a solo testing lab. **Do not** start it on a live server.
 
 ### 3. Database
 Pick **one** of these:
